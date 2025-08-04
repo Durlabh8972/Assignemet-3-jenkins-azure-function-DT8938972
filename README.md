@@ -1,5 +1,5 @@
 
-# Jenkins CI/CD Pipeline to Deploy Azure Function
+# Jenkins CI/CD Pipeline to Deploy Azure Function 
 
 ## Overview
 This repository demonstrates a full CI/CD pipeline using Jenkins to deploy an Azure Function.
@@ -27,7 +27,7 @@ This repository demonstrates a full CI/CD pipeline using Jenkins to deploy an Az
 4. **Run the pipeline** and verify:
    - Build stage installs dependencies
    - Test stage runs all tests successfully
-   - Deploy stage pushes code to Azure Function
+   - Deploy stage pushes code to Azure Function.
 
 ## Testing the Azure Function
 Visit the Azure Function URL in a browser or use Postman to verify output is: `Hello, World!`
