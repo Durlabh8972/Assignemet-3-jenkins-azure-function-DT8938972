@@ -6,7 +6,7 @@ pipeline {
         AZURE_CLIENT_SECRET = credentials('AZURE_CLIENT_SECRET')
         AZURE_TENANT_ID = credentials('AZURE_TENANT_ID')
         RESOURCE_GROUP = 'RG-jenkins'
-        FUNCTION_APP_NAME = 'your-function-name'
+        FUNCTION_APP_NAME = 'jenkinshello1234'
     }
 
     stages {
